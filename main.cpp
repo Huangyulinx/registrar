@@ -3,7 +3,7 @@
 // Created: Wei Gong open-src@qq.com      2025-12-12
 //
 // Description:
-//     Testing the registrar system
+//     Testing the registrar systemhuang
 
 // Change Log:
 //     [v1.1] Wei Gong open-src@qq.com   2025-12-12 17:57:41
